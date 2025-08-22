@@ -1,0 +1,29 @@
+@import url('https://rsms.me/inter/inter.css');
+
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set Inter font */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  margin: 0;
+  /* display: flex 제거! */
+  /* place-items: center 제거! */
+  background-color: #ffffff;
+  color: #1e293b;
+}
+
+/* Remove default link styles that conflict with Tabler */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Let Tabler handle button styles */
+button {
+  font-family: inherit;
+}
