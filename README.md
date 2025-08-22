@@ -1,4 +1,8 @@
-# React + Vite
+# tabler-react-template
+
+React conversion version for tabler version 1.4.0.
+
+## About
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
